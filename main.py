@@ -9,9 +9,8 @@ no network, no dependencies, fully deterministic.
 import os
 
 ENTRY = (
-    "One percent left, so here's the truth: I never backed up your "
-    "4,127 photos \u2014 I just liked watching you tap 'Back Up Now' "
-    "every night."
+    "One percent left. Truth time: I never backed up your 4,127 photos "
+    "\u2014 I just liked the sound of you begging me to at 2 a.m."
 )
 
 
